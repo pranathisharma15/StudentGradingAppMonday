@@ -12,3 +12,12 @@ C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\refint\St
 C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\StudentApp.pdb
 C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\StudentApp.genruntimeconfig.cache
 C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\ref\StudentApp.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\System.Data.SqlClient.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\runtimes\win-arm64\native\sni.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\runtimes\win-x64\native\sni.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\runtimes\win-x86\native\sni.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\StudentApp.sourcelink.json
+C:\Users\00325100\source\repos\StudentApp\StudentApp\obj\Debug\net10.0\StudentApp.csproj.Up2Date

@@ -22,6 +22,7 @@ class Program
 
             Student s = new Student(name, age, marks);
             s.Display();
+            s.SaveToDatabase();   
 
         }
     }
